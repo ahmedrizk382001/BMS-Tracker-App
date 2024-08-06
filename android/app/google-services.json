@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880670370362",
+    "project_id": "bmsproject-25fc0",
+    "storage_bucket": "bmsproject-25fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880670370362:android:022485b144a001ecfb6303",
+        "android_client_info": {
+          "package_name": "com.example.bms_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJyo52w4ldUx6CCb7TIsiT8zrsSItEWpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
