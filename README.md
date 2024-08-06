@@ -1,16 +1,3 @@
-# bms_tracker
+# Electric Vehicle Battery Management App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My Flutter-based mobile application, developed using Flutter and Firebase, is designed to assist electric vehicle (EV) owners in monitoring their car's battery management system in real-time. This app provides comprehensive monitoring of critical parameters such as voltage, current, temperature, state of health, and state of charge. Users can easily track these parameters through detailed analytical graphs, enabling them to maintain optimal battery performance and extend the life of their EV batteries. Stay informed and ensure the reliability of your electric vehicle with our intuitive and powerful monitoring solution.
